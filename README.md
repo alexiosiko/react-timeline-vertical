@@ -1,3 +1,5 @@
+<h1><a href="https://alexiosiko.github.io/react-timeline-vertical/">Live Demo</a></h1>
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
